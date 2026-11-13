@@ -1,0 +1,6 @@
+{
+  "name": "ui-sdk-side-by-side",
+  "compatibility_date": "2026-11-01",
+  "assets": { "directory": "./dist" },
+  "routes": [{ "pattern": "ui-sdk.aiwithmomo.com", "custom_domain": true }]
+}
